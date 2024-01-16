@@ -1,6 +1,6 @@
 ﻿# Ciência de dados
 Este projeto busca responder o motivo da evasão de clientes de uma empresa e possiveis tratativas para reduzir essa
-evasão
+evasão.
 
 Base de dados disponivel em:
 https://drive.google.com/drive/folders/1end_Du67k1wtWJk023RBVifUNb805-g2?usp=sharing
