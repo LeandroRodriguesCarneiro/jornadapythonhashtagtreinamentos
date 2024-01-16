@@ -1,4 +1,4 @@
-﻿# Ciencia de dados
+﻿# Ciência de dados
 Este projeto busca responder o motivo da evasão de clientes de uma empresa e possiveis tratativas para reduzir essa
 evasão
 
