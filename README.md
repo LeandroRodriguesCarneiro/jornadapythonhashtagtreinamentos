@@ -5,4 +5,4 @@ Os projetos desenvolvidos durante os dias 08 a 11 de janeiro, nesse repositório
 - Inteligencia artificial;
    Site simples de chat em tempo real;
 
-Esses projetos foram feitos com base nas aulas e com pequenas alterações feitas por mim.# Inteligencia Artificial
+Esses projetos foram feitos com base nas aulas e com pequenas alterações feitas por mim.
